@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7a1d5fa5-c54f-4333-995a-336912a38be2" name="metro_phpstorm" url="https://www.jyu.dev.navarik.com/">
+        <fileTransfer port="0" mountedRoot="J:\phpstorm\platform" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</application>
