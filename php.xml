@@ -717,6 +717,7 @@
   <component name="PhpUnit">
     <phpunit_settings>
       <phpunit_by_interpreter interpreter_id="e842f5aa-0cf6-456c-bcd0-08bc5476c834" load_method="CUSTOM_LOADER" custom_loader_path="/home/jyu/phpstorm/platform/vendor/autoload.php" phpunit_phar_path="" />
+      <phpunit_by_interpreter interpreter_id="7b034637-8800-44f6-a2fa-f0688611716c" load_method="CUSTOM_LOADER" custom_loader_path="/home/jyu/products/vendor/autoload.php" phpunit_phar_path="" />
     </phpunit_settings>
   </component>
 </application>
