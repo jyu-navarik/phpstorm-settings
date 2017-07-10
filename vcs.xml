@@ -18,6 +18,10 @@
           <option name="url" value="https://github.com/Navarik/vsl.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://jyu@bitbucket.navarik.com/scm/np/platform.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\jyu\Documents\phpstorm\" />
