@@ -10,7 +10,7 @@
         <remote_data HOST="metro.nvrk.net" PORT="22" USERNAME="jyu" PASSWORD="" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="false" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/jyu/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
       </interpreter>
       <interpreter home="ssh://jyu@sweet:22/usr/bin/php" id="7b034637-8800-44f6-a2fa-f0688611716c" name="Remote PHP 7 SWEET" debugger_id="php.debugger.XDebug">
-        <remote_data HOST="sweet" PORT="22" USERNAME="jyu" PASSWORD="" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="false" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/jyu/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
+        <remote_data HOST="sweet" PORT="22" USERNAME="jyu" PASSWORD="dffedfc2dfcfdfc3dfcedfcfdfcfdf93" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="false" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/jyu/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
       </interpreter>
       <interpreter home="ssh://jyu@lunar:22/usr/bin/php" id="2fa9fcf3-96a2-4415-af34-527e2881ec62" name="Remote PHP 7 LUNAR" debugger_id="php.debugger.XDebug">
         <remote_data HOST="lunar" PORT="22" USERNAME="jyu" PASSWORD="" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="false" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="" INITIALIZED="false" VALID="true" />
@@ -20,7 +20,7 @@
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="Remote PHP 7 SWEET">
-        <phpinfo binary_type="PHP" php_cli="/usr/php/7.0/bin/php" path_separator=":" remote_host="192.168.1.206 54505 22" version="7.0.18">
+        <phpinfo binary_type="PHP" php_cli="/usr/php/7.0/bin/php" path_separator=":" remote_host="192.168.1.206 51921 22" version="7.0.18">
           <additional_php_ini>/etc/php/7.0/php.d/browscap.ini, /etc/php/7.0/php.d/extensions.ini, /etc/php/7.0/php.d/opcache.ini, /etc/php/7.0/php.d/xdebug.ini</additional_php_ini>
           <configuration_file>/etc/php/7.0/php-cli.ini</configuration_file>
           <configuration_options>
