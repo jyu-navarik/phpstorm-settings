@@ -4,9 +4,6 @@
       <webServer id="7a1d5fa5-c54f-4333-995a-336912a38be2" name="metro_phpstorm" url="https://www.jyu.dev.navarik.com/">
         <fileTransfer port="0" mountedRoot="J:\phpstorm\platform" accessType="MOUNT" />
       </webServer>
-      <webServer id="72dbde34-8a5e-4d79-99d8-c7d5436637af" name="platform_sweet" url="https://www-jyu.dev.navarik.com">
-        <fileTransfer port="0" mountedRoot="Z:\platform" accessType="MOUNT" />
-      </webServer>
     </option>
   </component>
 </application>
